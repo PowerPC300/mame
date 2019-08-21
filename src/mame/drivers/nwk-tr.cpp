@@ -3,6 +3,14 @@
 /*  Konami NWK-TR System
 
     Driver by Ville Linde
+    
+    TODO list:
+    racingj and clones: figure out what is causing the broken textures
+                        figure out why it connects with 7 other players
+	
+	thrilld: game crashes with a error concerning the SHARC DSP.
+	
+	all romsets: fix the music.
 
 
 
